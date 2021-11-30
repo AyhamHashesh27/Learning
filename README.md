@@ -1,4 +1,2 @@
 # Learning
-This file is used to describe project objective
-ok
-New change
+This file used to run it from Jenkins
